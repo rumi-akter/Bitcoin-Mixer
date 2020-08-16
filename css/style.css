@@ -299,7 +299,7 @@ a:hover {
 
 /*Heading Section End */
 @media (max-width: 992px) {
-  .footer-3{
+  .link{
     font-size: 12pt;
   }
   .why {
@@ -318,7 +318,7 @@ a:hover {
     }
    }
 @media (max-width: 768px) {
-  .footer-3{
+  .link{
     font-size: 11pt;
   }
   .my-header button{
@@ -348,7 +348,7 @@ a:hover {
       .heading{
         font-size: 22pt;
       }
-      .footer-3{
+      .link{
         font-size: 10pt;
       }
       .discription{
@@ -371,7 +371,7 @@ a:hover {
         .tittlee h2{
           font-size: 16px;
         }
-        .footer-3{
+        .link{
           font-size: 9pt;
         }
         #why-page-header .seo1{
