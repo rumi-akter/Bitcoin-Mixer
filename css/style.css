@@ -235,10 +235,10 @@ a:hover {
   margin-top: 20px;
   margin-bottom: 10px; }
 
-.seo {
+.seo{
   margin: 0 0 10px;
   color: #3b4346;
-  font-size: 14pt !important;
+  font-size: 14pt;
   margin-bottom: 10pt !important;
   font-weight: 300; }
 
@@ -304,6 +304,9 @@ a:hover {
     .tittlee h2{
       font-size: 25px;
     }
+    .seo{
+      font-size: 12pt;
+    }
     #why-page-header .seo1{
       font-size: 12pt;
     }
@@ -320,8 +323,11 @@ a:hover {
     .tittlee h2{
       font-size: 22px;
     }
+    .seo{
+      font-size: 11pt;
+    }
     #why-page-header .seo1{
-      font-size: 10pt;
+      font-size: 11pt;
     } }
     @media (max-width: 480px) {
       .ul ul li {
@@ -342,6 +348,9 @@ a:hover {
       .tittlee h2{
         font-size: 20px;
       }
+      .seo{
+        font-size: 10pt;
+      }
       #why-page-header .seo1{
         font-size: 10pt;
       }
@@ -349,6 +358,9 @@ a:hover {
       @media (max-width:385px){
         .tittlee h2{
           font-size: 16px;
+        }
+        .seo{
+          font-size: 9pt;
         }
         #why-page-header .seo1{
           font-size: 9pt;
