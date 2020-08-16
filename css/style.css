@@ -304,6 +304,9 @@ a:hover {
     .tittlee h2{
       font-size: 25px;
     }
+    .discription{
+      font-size: 12pt;
+    }
     .seo{
       font-size: 12pt;
     }
@@ -316,7 +319,7 @@ a:hover {
     padding: 0;
   }
   .discription{
-    font-size: 10pt;
+    font-size: 11pt;
   }
   .heading {
     font-size: 25pt; }
@@ -343,7 +346,7 @@ a:hover {
         font-size: 10pt;
       }
       .seo1{
-        font-size: 11pt;
+        font-size: 10pt;
       }
       .tittlee h2{
         font-size: 20px;
@@ -359,12 +362,16 @@ a:hover {
         .tittlee h2{
           font-size: 16px;
         }
-        .seo{
-          font-size: 9pt;
-        }
         #why-page-header .seo1{
           font-size: 9pt;
         }
+        .seo{
+          font-size: 9pt;
+        }
+        .discription{
+          font-size: 9pt;
+        }
+
         .tittle1{
           font-size: 20px;
         }
