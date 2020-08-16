@@ -248,6 +248,14 @@ a:hover {
   font-size: 12pt;
   margin-bottom: 7pt;
   margin-top: 14px; }
+  #why-page-header .seo1 {
+    color: #3b4346;
+    font-size: 13pt;
+    margin-bottom: 7pt;
+    margin-top: 14px;
+    line-height: 1.1;
+    font-weight: 300 !important;
+}
 
 .august {
   color: #3b4346;
@@ -292,9 +300,64 @@ a:hover {
 /*Heading Section End */
 @media (max-width: 992px) {
   .why {
-    display: block; } }
+    display: block; }
+    .tittlee h2{
+      font-size: 25px;
+    }
+    #why-page-header .seo1{
+      font-size: 12pt;
+    }
+   }
 @media (max-width: 768px) {
+  .my-header button{
+    padding: 0;
+  }
   .heading {
-    font-size: 25pt; } }
-
+    font-size: 25pt; }
+    .tittlee h2{
+      font-size: 22px;
+    }
+    #why-page-header .seo1{
+      font-size: 10pt;
+    } }
+    @media (max-width: 480px) {
+      .ul ul li {
+        font-size: 10pt;
+    }
+    .one ol li {
+      font-size: 10pt;
+  }
+      .heading{
+        font-size: 22pt;
+      }
+      .discription{
+        font-size: 10pt;
+      }
+      .seo1{
+        font-size: 11pt;
+      }
+      .tittlee h2{
+        font-size: 20px;
+      }
+      #why-page-header .seo1{
+        font-size: 10pt;
+      }
+ } 
+      @media (max-width:385px){
+        .tittlee h2{
+          font-size: 16px;
+        }
+        #why-page-header .seo1{
+          font-size: 9pt;
+        }
+        .tittle1{
+          font-size: 20px;
+        }
+        .heading{
+          font-size: 18pt;
+        }
+        .heading-tittle{
+          font-size: 10pt;
+        }
+      }
 /*# sourceMappingURL=style.css.map */
